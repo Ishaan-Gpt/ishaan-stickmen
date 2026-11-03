@@ -18,6 +18,7 @@ Then ask Claude for a What If stickman film, and it follows `SKILL.md`.
 | | |
 |---|---|
 | `SKILL.md` | the workflow: study the hits, check the premise, script, voice, 2D kit, blind judge, one export |
+| `PROMPTS.md` | every prompt from the video, step by step, ready to paste |
 | `rulebook.md` | what seven of the genre's biggest films share, measured frame by frame |
 | `kit/coldopen.html` | a complete 61 s cold open, "What If You Only Had 1,000 Words Left?", to copy and re-skin |
 | `kit/score.mjs` | music synthesised in code, mixed under the voice at -14 LUFS |
